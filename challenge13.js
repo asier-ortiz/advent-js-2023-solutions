@@ -1,7 +1,7 @@
 /*
 Points: 240
-OPS/S : 4
-Cognitive complexity: 2135
+OPS/S : 2135
+Cognitive complexity: 4
  */
 
 function calculateTime(deliveries) {
